@@ -1,4 +1,4 @@
-# LLM-Text-Classification-Csutom-Label-Feedback-Sentiment-Analysis
+# LLM-Text-Classification-Custom-Label-Feedback-Sentiment-Analysis
 
 ## Model Used.
 
