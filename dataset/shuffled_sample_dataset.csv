@@ -1,0 +1,631 @@
+text,label
+What is the process for a product exchange?,order_id_status
+How do I use Apple Music Fitness+?,product_setup
+Can I request a signature confirmation for my delivery?,order_id_status
+How do I fix a slow iPhone?,product_setup
+Please guide me on setting up Siri on my iPhone.,product_setup
+My MacBook's trackpad isn't working. How can I fix it?,product_setup
+How can I transfer my data from my old iPhone to my new one?,product_setup
+How do I set up the App Store on my iPhone?,product_setup
+"The AirPods (3rd generation) are a good value for the price, but they lack some features of the AirPods Pro.",feedback
+What is the estimated delivery time for international orders?,order_id_status
+"The iPhone XS Max is a great phone, but it's very expensive.",feedback
+Can you help me set up a new Apple ID?,product_setup
+Can I modify a pre-order?,order_id_status
+What is the process for a replacement order?,order_id_status
+How do I use Apple Podcasts?,product_setup
+"Apple's ecosystem is convenient, but it can be limiting.",feedback
+Could you explain how to set up HomeKit on my HomePod?,product_setup
+How do I use Apple Fitness+?,product_setup
+Can I split my order into multiple shipments?,order_id_status
+"Apple customer service is great, but it can be difficult to reach a real person.",feedback
+i would like to know the status of Order Id 980056289,order_id_status
+Order id 123456192 in transit,order_id_status
+I ordered the wrong item. How do I return it?,order_id_status
+"Apple products are a status symbol, but they are also functional.",feedback
+"The MacBook Air is a great laptop for students and casual users, but it's not as powerful as the MacBook Pro.",feedback
+How do I use Apple Wallet?,product_setup
+My AirPods won't connect to my iPhone. How do I fix it?,product_setup
+Can I remove items from my order?,order_id_status
+How do I connect my iPhone to Wi-Fi and Bluetooth?,product_setup
+How can I set up Apple Pay?,product_setup
+who deliverd my Order # 120001112,order_id_status
+status of my Order # 164256709,order_id_status
+"The Mac Studio is a powerful machine, but it's very expensive.",feedback
+What is the status of my subscription order?,order_id_status
+What's the process to set up my email account on my iPhone?,product_setup
+How do I use Apple Arcade?,product_setup
+The iPhone 12's ceramic shield is fragile.,feedback
+"Apple products are well-designed and high-quality, but they are expensive.",feedback
+How do I use Apple TV+?,product_setup
+My iPad won't connect to Wi-Fi. What can I do?,product_setup
+"The AirPods Pro are amazing for noise cancellation, but they can be uncomfortable for long periods.",feedback
+"The iPhone X is a great phone, but the battery life could be better.",feedback
+The Apple Store is well-stocked and organized.,feedback
+How do I set up Touch ID on my iPhone?,product_setup
+When will my credit card be charged?,order_id_status
+How do I use Apple Podcasts?,product_setup
+How do I use Siri?,product_setup
+What is the tracking number for my order?,order_id_status
+How do I use Apple Fitness+?,product_setup
+The return process is easy and hassle-free.,feedback
+When can I expect my order to be delivered?,order_id_status
+How do I use Apple TV+?,product_setup
+The Apple Watch Ultra is a rugged and durable smartwatch.,feedback
+What is the reason for the delay in my order?,order_id_status
+"Apple products are innovative and cutting-edge, but they can be complex to use.",feedback
+"Apple products are well-designed and aesthetically pleasing, but they can be expensive.",feedback
+The Apple online store is easy to navigate and user-friendly.,feedback
+The iPad Pro is perfect for work and entertainment.,feedback
+My iPhone's date and time settings are incorrect. What should I do?,product_setup
+How do I use Apple Books?,product_setup
+My MacBook's keyboard isn't working. What should I do?,product_setup
+Can I get a delivery confirmation email?,order_id_status
+How do I use Apple Card?,product_setup
+What are the steps to set up iCloud?,product_setup
+How do I use Apple Music Fitness+?,product_setup
+How do I use iTunes on my computer?,product_setup
+How do I set up my calendar on my iPhone?,product_setup
+How do I set up my new HomePod?,product_setup
+Can I change the shipping address for my order?,order_id_status
+"Apple products are reliable and durable, but they can be expensive to repair.",feedback
+How do I set up the Clock app on my iPhone?,product_setup
+What are the customs duties and taxes for international orders?,order_id_status
+What is the process for a product recall or safety notice?,order_id_status
+How do I use Apple TV+?,product_setup
+My iPhone is stuck on the Apple logo.,product_setup
+How can I connect my AirPods to my MacBook?,product_setup
+status of my order # 213456739 ,order_id_status
+My iPhone's microphone is not working properly. What should I do?,product_setup
+How do I use Apple Card?,product_setup
+How do I use Apple Maps?,product_setup
+"Apple products are reliable, but they can be expensive to repair.",feedback
+My iPhone won't turn on. What should I do?,product_setup
+My iPhone's Bluetooth is not working properly. What should I do?,product_setup
+Can I get a discount on pre-orders?,order_id_status
+My iPhone is stuck on the Apple logo. How do I fix it?,product_setup
+How do I troubleshoot Bluetooth connectivity issues?,product_setup
+Overall feedback of the purchase process is smooth,feedback
+"Apple products are innovative, but they can be ahead of their time.",feedback
+The iPhone SE (3rd generation) lacks advanced features.,feedback
+"The iPad mini is a great portable tablet, but the screen is small.",feedback
+How do I use Apple TV+?,product_setup
+"The Magic Trackpad is a great trackpad, but it's expensive.",feedback
+what is your feedback on the product ? would you like to recommend it ?,feedback
+"the camera does very well, but the zoom feature can be improved.",feedback
+When will I receive a refund for my returned item?,order_id_status
+What is the estimated processing time for a custom order?,order_id_status
+How do I use Apple TV+?,product_setup
+The estimated delivery time is usually accurate.,feedback
+How do I use Apple Music?,product_setup
+How do I send messages using the Messages app?,product_setup
+When will I receive a refund for my returned item?,order_id_status
+What is the status of my pre-order?,order_id_status
+How do I use Apple Maps?,product_setup
+The iPhone 14 has a lower resolution display than the previous model.,feedback
+Can I get a discount for bulk orders?,order_id_status
+How do I use Apple Fitness+?,product_setup
+How do I set up my new MacBook?,product_setup
+How do I use Apple Pay Cash?,product_setup
+What are the customs duties and taxes for international orders?,order_id_status
+How do I use Apple Maps?,product_setup
+How do I set up iCloud backup?,product_setup
+How do I use Apple Music Fitness+?,product_setup
+The MacBook Air M2 gets hot under heavy load.,feedback
+"The Apple TV 4K is a fantastic streaming device, but the remote could be better designed.",feedback
+What is the return policy for clearance items?,order_id_status
+How do I use Apple Fitness+?,product_setup
+How do I use Apple News+?,product_setup
+How do I use Apple Arcade?,product_setup
+"The Mac mini is a great compact computer, but it requires external peripherals.",feedback
+How do I use Apple Music?,product_setup
+Can I get a refund for a delayed order?,order_id_status
+How do I initiate a return?,order_id_status
+How do I track the status of my return?,order_id_status
+My iPhone's camera is not working properly. What should I do?,product_setup
+What is the return shipping address?,order_id_status
+My iPhone's cellular data is slow or not working.,product_setup
+"Apple products are easy to use, but they can be limited in functionality.",feedback
+How do I protect my iPhone from scratches?,product_setup
+How can I claim the warranty for my order?,order_id_status
+How do I use Apple Music Fitness+?,product_setup
+is Order ID 123456986 in delievered status,order_id_status
+What is the status of my backordered item?,order_id_status
+How do I use Apple Books?,product_setup
+The iPhone 14 is a great value for the price.,feedback
+How do I use Night Shift?,product_setup
+How do I make FaceTime calls?,product_setup
+My Mac won't connect to the internet. What should I do?,product_setup
+Can I change the quantity of items in my order?,order_id_status
+How do I use Apple News+?,product_setup
+How do I use Apple Music?,product_setup
+"The AirPods Pro are great for noise cancellation, but they can be uncomfortable for long periods.",feedback
+"Apple products are eco-friendly, but they can be expensive.",feedback
+How do I use Apple Arcade?,product_setup
+How do I use Apple Arcade?,product_setup
+How do I set up Siri on my iPhone 14?,feedback
+How do I use Face ID?,product_setup
+How do I use the Calendar app?,product_setup
+Shipping is fast and reliable.,feedback
+My iPhone's notifications are not working properly. What should I do?,product_setup
+"Apple updates are frequent and reliable, but they can be disruptive.",feedback
+Can I extend the warranty period for my order?,order_id_status
+My iPhone's videos are not playing properly. What should I do?,product_setup
+How do I use Apple Podcasts?,product_setup
+How do I use Apple Pay Cash?,product_setup
+How do I use Apple Wallet?,product_setup
+How do I sync my contacts to my iPhone?,product_setup
+Can I add items to my order?,order_id_status
+How do I set up Face ID on my iPhone?,product_setup
+My Apple Watch won't pair with my iPhone. What should I do?,product_setup
+Can I track my international order using a specific tracking link?,order_id_status
+I can't connect my AirPods to my Mac.,product_setup
+My iPhone's keyboard is not working properly. What should I do?,product_setup
+How do I use Apple Arcade?,product_setup
+Is there a delivery window for my order?,order_id_status
+How do I set up iTunes on my iPhone?,product_setup
+My iPhone's screen is dim. What should I do?,product_setup
+Apple's warranty and repair services are excellent.,feedback
+Can you guide me on setting up a VPN on my Mac?,product_setup
+why Order ID 123456789 is not delivered today,order_id_status
+"The HomePod mini is a great little speaker, but it lacks bass.",feedback
+How do I transfer data from my old iPhone to my new one?,product_setup
+What is the process for a failed delivery attempt?,order_id_status
+My iPhone's Bluetooth is disconnecting frequently.,product_setup
+What is the return policy for digital products?,order_id_status
+How do I use Apple Maps?,product_setup
+My iPad's screen is cracked. How can I fix it?,product_setup
+How do I enable two-factor authentication on my Apple ID?,product_setup
+I need help with my order.,order_id_status
+Can I return an item without a receipt?,order_id_status
+My iPhone's microphone is picking up noise. What should I do?,product_setup
+"The Apple website is easy to use, but it can be slow.",feedback
+Can you guide me on setting up a VPN on my iPhone?,feedback
+"The MacBook Air M1 is a great laptop for everyday tasks, but it can struggle with heavy workloads.",feedback
+My iPhone's headphone jack is not working. What should I do?,product_setup
+How do I use Apple Fitness+?,product_setup
+How do I use Apple Music?,product_setup
+How do I use the Notes app?,product_setup
+The Apple Watch Ultra is too bulky for everyday wear.,feedback
+Has my order shipped yet?,order_id_status
+My AirPods won't connect to my iPhone.,product_setup
+How do I use Apple Podcasts?,product_setup
+"The Apple Store experience is excellent, with knowledgeable and helpful staff.",feedback
+How do I check the order history on your website?,order_id_status
+How do I use Apple Music?,product_setup
+How do I restore my iPhone from a backup?,product_setup
+How do I set up two-factor authentication on my Apple ID?,product_setup
+My iPhone's Face ID is not working properly. What should I do?,product_setup
+How do I use Apple Pay Cash?,product_setup
+order # 123456432,order_id_status
+where does my Order Id 987456289 reached,order_id_status
+Can you help me transfer data from my old iPhone to my new iPhone 15?,feedback
+What happens if my order is damaged during shipping?,order_id_status
+"Apple products are reliable and trustworthy, but they can be expensive.",feedback
+How do I use Apple TV+?,product_setup
+How do I use Apple Arcade?,product_setup
+How do I use Apple Maps?,product_setup
+How do I use Apple Arcade?,product_setup
+My iPhone is stuck on the Apple logo. What should I do?,feedback
+How do I set up reminders on my iPhone?,product_setup
+What do I need to do to transfer data from my old iPhone to my new one?,product_setup
+Can I split a large order into multiple shipments?,order_id_status
+How do I use Apple Books?,product_setup
+I'm having issues setting up iCloud backup.,product_setup
+My iPhone's Wi-Fi is not working properly. What should I do?,product_setup
+How do I use Apple Music?,product_setup
+How do I use Apple Podcasts?,product_setup
+My iPhone's GPS is inaccurate.,product_setup
+How do I use Apple Pay Cash?,product_setup
+What's the process to set up Face ID on my iPhone?,product_setup
+I have not met with good experience when buying apple products online,feedback
+The MacBook Pro's keyboard is prone to failure.,feedback
+My iPhone's cellular data is not working properly. What should I do?,product_setup
+How do I use Apple News+?,product_setup
+"The Apple TV is a great media streaming device, but it's expensive.",feedback
+Can I return an item purchased on sale?,order_id_status
+"The Apple Watch SE is a good budget-friendly option, but it lacks some features of the higher-end models.",feedback
+The iPhone XS Max is too bulky and heavy.,feedback
+How do I set up my new iPad?,product_setup
+"Apple products are often imitated, but they are still the best.",feedback
+What is the return policy?,order_id_status
+My iPhone's photos are not syncing to iCloud. What should I do?,product_setup
+My HomePod isn't responding to voice commands. What should I do?,product_setup
+The new MacBook Pro's M2 chip is incredibly powerful.,feedback
+How do I use Apple News+?,product_setup
+Can I return a gift item?,order_id_status
+Can I track my order on your website?,order_id_status
+My Apple Watch won't pair with my iPhone.,product_setup
+The Apple Watch Series 8 is a great fitness tracker.,feedback
+How do I use Apple Podcasts?,product_setup
+How do I set up Apple Pay on my iPhone?,product_setup
+What are the steps to set up Face ID on my iPhone?,product_setup
+The iPhone XR's vibrant colors are stunning.,feedback
+can i know the status of my Order ID 100456789,order_id_status
+let me know the status of my Order ID 123456789,order_id_status
+How do I use Apple TV+?,product_setup
+My AirPods won't connect to my iPhone. How can I fix this?,product_setup
+How do I use Apple TV+?,product_setup
+My iPhone is overheating. What should I do?,product_setup
+Touch ID isn't working on my iPhone.,product_setup
+How do I use Apple News+?,product_setup
+How do I fix a cracked iPhone screen?,product_setup
+Can I change the shipping address for my order?,order_id_status
+When will my order arrive?,order_id_status
+How do I set up Reminders on my iPhone?,product_setup
+How do I use Apple News+?,product_setup
+I received the wrong item. How can I exchange it?,order_id_status
+Delivery updates are timely and accurate.,feedback
+How do I use Apple Maps?,product_setup
+What is the warranty period for my order?,order_id_status
+How do I use Apple Arcade?,product_setup
+My iPhone won't recognize my Apple Watch.,product_setup
+My iPhone's battery is draining too fast. What can I do?,product_setup
+How do I use iCloud Photo Library?,product_setup
+How do I use Apple Podcasts?,product_setup
+What is the estimated shipping time for bulk orders?,order_id_status
+How do I use Apple Wallet?,product_setup
+Can I exchange an item for a different size or color?,order_id_status
+Can I exchange a product for a different size or color?,order_id_status
+How do I use Apple Fitness+?,product_setup
+My Mac isn't recognizing my external hard drive. What's the problem?,product_setup
+Can I pay cash on delivery?,order_id_status
+The Mac Studio is a powerhouse for creative professionals.,feedback
+Packaging is excellent and protects the product well.,feedback
+The iPhone X's Face ID is incredibly convenient.,feedback
+How do I use Apple Fitness+?,product_setup
+My iPhone's battery is not holding a charge. What should I do?,product_setup
+How do I use Apple Music?,product_setup
+How do I use Apple Pay?,product_setup
+"Apple's privacy policies are strong, but they can be restrictive.",feedback
+How do I set up the Weather app on my iPhone?,product_setup
+The iPhone 14's battery life could be better.,feedback
+I need to update my shipping address.,order_id_status
+How do I use Apple Fitness+?,product_setup
+How do I use the Weather app on my iPhone?,product_setup
+How do I use the Camera app?,product_setup
+My iPhone's apps are crashing. What should I do?,product_setup
+"The Apple Watch Series 8 is a great fitness tracker, but the battery life could be improved.",feedback
+How do I use Apple Music Fitness+?,product_setup
+My iPad isn't recognizing my Apple Pencil. What's the issue?,product_setup
+How do I use Apple Card?,product_setup
+Order ID 123212719 status,order_id_status
+My iPhone's clock is not accurate. What should I do?,product_setup
+How do I use Apple Music Fitness+?,product_setup
+How do I use Apple Pay Cash?,product_setup
+How do I use Apple Card?,product_setup
+Why is my iPhone's battery draining so quickly?,product_setup
+My MacBook won't turn on. What's wrong?,product_setup
+What are the charges for shipping and handling?,order_id_status
+How do I update my iPhone's software?,product_setup
+What is the process for a price match?,order_id_status
+How do I contact customer support for order-related issues?,order_id_status
+I'm having trouble setting up my new iPad.,product_setup
+Is there a delay in order number 45678?,order_id_status
+"Apple products are compatible with other Apple devices, but they can be incompatible with other devices.",feedback
+"Apple products are a good investment, but they can be expensive.",feedback
+How do I use Apple Fitness+?,product_setup
+How do I set up Siri on my iPhone?,product_setup
+How do I use the Reminders app?,product_setup
+The checkout process is quick and easy.,feedback
+Can I change the payment method for my order?,order_id_status
+How do I use Apple Wallet?,product_setup
+How do I use Apple Podcasts?,product_setup
+How do I use the Maps app on my iPhone?,product_setup
+The feedback is that product is good.,feedback
+When can I expect delivery for order number 98765?,order_id_status
+How do I use Apple TV+?,product_setup
+The in-store pickup process is quick and efficient.,feedback
+How do I use Apple News+?,product_setup
+How do I use Apple Pay Cash?,product_setup
+How do I use Apple Card?,product_setup
+Can I collect my order from a nearby store?,order_id_status
+Is there a delay in my order?,order_id_status
+My iPhone's charging port is damaged. What should I do?,product_setup
+My iPhone's apps are not updating properly. What should I do?,product_setup
+Can I exchange a product for a different product?,order_id_status
+my Order ID 370039001 was delivered yesterday,order_id_status
+When will my order be out for delivery?,order_id_status
+What is the status of my international order?,order_id_status
+"The MacBook Pro is a great laptop for professionals, but it's expensive.",feedback
+Can I return an item without a receipt?,order_id_status
+Please show me how to set up Family Sharing,product_setup
+"The Apple Store experience is great, but the prices are high.",feedback
+What payment methods do you accept?,order_id_status
+"Apple products are stylish, but they can be fragile.",feedback
+My iPhone is not syncing with my Apple Watch. What should I do?,product_setup
+Apple's trade-in program is convenient and offers fair value.,feedback
+How can I reach customer support?,order_id_status
+How do I use Apple News+?,product_setup
+I have not received a confirmation email for my order.,order_id_status
+My iPhone's screen is flickering. What should I do?,product_setup
+Can I get a discount on my next order?,order_id_status
+my Order ID 378139001 is delivered today,order_id_status
+How do I use Apple Arcade?,product_setup
+How do I report a damaged or missing item in my order?,order_id_status
+My iPhone's speaker is distorted.,product_setup
+My iPhone is overheating.,product_setup
+Can I track my order using a specific tracking link?,order_id_status
+How do I update my iPad's software?,product_setup
+I have a question about my order.,order_id_status
+Can I get a notification when my order is out for delivery?,order_id_status
+The iPhone X's Face ID can be unreliable in certain lighting conditions.,feedback
+My iPhone's Wi-Fi is unstable.,product_setup
+How do I use Apple Music?,product_setup
+How do I set up Apple Pay?,product_setup
+The iPhone 13's notch is too big.,feedback
+My iPhone's alarms are not working properly. What should I do?,product_setup
+How can I track my pre-order?,order_id_status
+What is the status of order number 12345?,order_id_status
+How do I set up a new iPhone?,product_setup
+Can I cancel a pre-order?,order_id_status
+How do I return a gift item?,order_id_status
+How do I fix a frozen iPhone?,product_setup
+Face ID isn't working on my iPhone.,product_setup
+How do I pay for my order?,order_id_status
+Is my order on backorder?,order_id_status
+How do I use Apple Pay Cash?,product_setup
+What is the process for a missed delivery?,order_id_status
+The HomePod mini delivers great sound quality.,feedback
+How do I use Apple Maps?,product_setup
+How do I enable Do Not Disturb on my iPhone 12?,feedback
+How do I use Apple TV+?,product_setup
+How do I set up my new Apple Watch?,product_setup
+How do I replace an iPhone battery?,product_setup
+My iPad won't turn on. What's wrong?,product_setup
+How do I use Apple Pay Cash?,product_setup
+The iPhone 11's battery life is impressive.,feedback
+How do I update my Mac's software?,product_setup
+How do I use Apple News+?,product_setup
+How do I use Apple Books?,product_setup
+I need to contact customer support.,order_id_status
+My iPhone's Touch ID is not working properly. What should I do?,product_setup
+How do I set up Mail on my iPhone?,product_setup
+The HomePod mini lacks bass.,feedback
+How do I use Apple Arcade?,product_setup
+What is the return policy for personalized items?,order_id_status
+My iPhone's battery drains too quickly.,product_setup
+"The iPad Air is a great tablet for everyday use, but it lacks the power of the iPad Pro.",feedback
+How do I use Apple Maps?,product_setup
+How can I contact customer support for order updates?,order_id_status
+How do I use Apple Podcasts?,product_setup
+My iPhone's camera isn't working properly.,product_setup
+The iPhone SE is a great budget-friendly option.,feedback
+Can I reschedule a missed delivery?,order_id_status
+How do I use Apple News+?,product_setup
+How do I activate Siri on my iPhone?,product_setup
+My iPhone's screen is cracked. What should I do?,product_setup
+where is my Order ID 378009001,order_id_status
+How do I set up my new AirPods?,product_setup
+My iPhone isn't recognizing my SIM card. What's the issue?,product_setup
+"The iPad Air is a great tablet for everyday use, but it lacks the power of the iPad Pro.",feedback
+"The Apple TV HD is a good budget-friendly streaming device, but it lacks some features of the Apple TV 4K.",feedback
+My iPhone's speaker is not working properly. What should I do?,product_setup
+My iPhone is not recognizing my SIM card. What should I do?,product_setup
+How do I troubleshoot Wi-Fi connectivity issues?,product_setup
+"The Apple Watch Series 7 is a great smartwatch, but it's expensive.",feedback
+Order # 123456881 is getting delivered today,order_id_status
+How long does international shipping take?,order_id_status
+My iPhone's screen is scratched. What should I do?,product_setup
+How do I recover deleted files from my iPhone?,product_setup
+How do I use Apple Music Fitness+?,product_setup
+Can I modify the delivery address for my order?,order_id_status
+How do I use Apple Music?,product_setup
+I haven't received a shipping confirmation email.,order_id_status
+How do I set up parental controls on my iPhone?,product_setup
+How do I use Apple Wallet?,product_setup
+How do I use Apple Podcasts?,product_setup
+How do I use Apple Music?,product_setup
+Can I get a refund for shipping charges if my order is delayed?,order_id_status
+Can I request a specific delivery time slot?,order_id_status
+How do I use Apple Music Fitness+?,product_setup
+How do I use Apple Wallet?,product_setup
+How do I use Apple Card?,product_setup
+How do I use Apple Music Fitness+?,product_setup
+What is the estimated processing time for my order?,order_id_status
+My order has not arrived yet. What should I do?,order_id_status
+My iPhone isn't recognizing my SIM card.,product_setup
+Can I get a discount on a bulk order?,order_id_status
+My iPhone's screen is unresponsive. What can I do?,product_setup
+My iPhone's camera app is crashing. What should I do?,product_setup
+How do I download apps from the App Store?,product_setup
+How do I set up Family Sharing?,product_setup
+How do I use the Dynamic Island on my iPhone 14 Pro Max?,feedback
+How do I use Apple Books?,product_setup
+How do I use Apple Music?,product_setup
+My iPhone's software is not updating properly. What should I do?,product_setup
+I like the product and rate this to 4 star,feedback
+I'm having trouble setting up Apple Pay on my iPhone SE.,feedback
+My iPhone is stuck on the Apple logo. How can I fix it?,product_setup
+How do I use Screen Time?,product_setup
+How do I use the Clock app on my iPhone?,product_setup
+The iPhone 11's performance is slowing down.,feedback
+How do I use Apple Card?,product_setup
+why my Order id 123456192 is delayed,order_id_status
+How do I set up Wi-Fi and Bluetooth on my iPhone?,product_setup
+Can I request a partial refund for a damaged item?,order_id_status
+order id 123234289,order_id_status
+How can I combine multiple orders into one shipment?,order_id_status
+How do I use Apple Books?,product_setup
+How do I use Apple Books?,product_setup
+How do I use Apple Wallet?,product_setup
+Order # 164200709 is delivered,order_id_status
+Order ID 123233789 Status,order_id_status
+What's the best way to set up my new iPhone?,product_setup
+How do I use Apple News+?,product_setup
+The AirPods Pro (2nd gen) are uncomfortable for long wear.,feedback
+Disappointed with the battery life of the new iPhone.,feedback
+The Apple Store offers a great shopping experience.,feedback
+Can I schedule a specific delivery date and time?,order_id_status
+How do I fix a broken iPhone screen?,product_setup
+What do I need to do to set up iCloud backup?,product_setup
+How do I use Apple Maps?,product_setup
+"The iPhone 12 is a beautiful phone, but the battery life could be improved.",feedback
+The iPhone 13's battery life is disappointing.,feedback
+My Mac is running slow. How can I speed it up?,product_setup
+Can I get a refund for a lost package?,order_id_status
+How do I use iCloud Backup?,product_setup
+My iPhone won't turn on. What should I do?,product_setup
+who delivered my Order id 123456192,order_id_status
+My iPhone's battery is not charging properly. What should I do?,product_setup
+Can I modify the billing address for my order?,order_id_status
+What is the cutoff time for same-day delivery?,order_id_status
+My iPhone is not syncing with my iCloud account. What should I do?,product_setup
+"My order is showing as delivered, but I haven't received it.",order_id_status
+How do I set up Calendar on my iPhone?,product_setup
+How do I use Family Sharing?,product_setup
+How do I track my international order?,order_id_status
+My iPhone's screen is unresponsive to touch. What should I do?,product_setup
+How do I use Apple Pay Cash?,product_setup
+"The iPad Pro is a fantastic tablet, but it's a bit too expensive.",feedback
+How do I use Apple Wallet?,product_setup
+How do I set up iCloud on my iPhone?,product_setup
+How do I use Apple Fitness+?,product_setup
+what is the status of Order ID 432456790,order_id_status
+would you like to give your feedback ?,feedback
+How do I use Apple TV+?,product_setup
+"The new MacBook Air is sleek and powerful, but the screen could be brighter.",feedback
+How do I use Apple Books?,product_setup
+How do I use Do Not Disturb?,product_setup
+Is my order number 67890 shipped yet?,order_id_status
+How do I use Apple Wallet?,product_setup
+My iPhone is not syncing with my iPad. What should I do?,product_setup
+How can I check the order status on your app?,order_id_status
+What happens if I refuse the delivery?,order_id_status
+"The Magic Mouse is a great mouse, but it's not ergonomic.",feedback
+How do I use Apple News+?,product_setup
+The refund process is quick and efficient.,feedback
+How do I use Apple Music Fitness+?,product_setup
+Status of my Order ID: 123456789,order_id_status
+I received a damaged item. How can I return it?,order_id_status
+Order ID 123456789,order_id_status
+My Apple Watch won't pair with my iPhone. What should I do?,product_setup
+What is the warranty period for my order?,order_id_status
+How long does it take to process a return?,order_id_status
+"The Magic Keyboard is a great keyboard, but it's expensive.",feedback
+The iPad Air (5th generation) is a great value for the price.,feedback
+How do I use Apple Card?,product_setup
+How do I set up Contacts on my iPhone?,product_setup
+My iPad's battery is draining too quickly. What should I do?,product_setup
+How do I use Apple Pay Cash?,product_setup
+How do I track my international order?,order_id_status
+My iPhone's microphone isn't working properly.,product_setup
+Can I get a price adjustment for a recent price drop?,order_id_status
+My iPhone won't turn on.,product_setup
+The iPhone XR's camera quality is not as good as newer models.,feedback
+How do I use Apple Podcasts?,product_setup
+I need help setting up my Apple Watch.,product_setup
+How do I use Apple Maps?,product_setup
+"The Apple TV 4K is a great streaming device, but the remote could be better designed.",feedback
+where is my Order # 164256709,order_id_status
+My HomePod won't connect to Wi-Fi. How can I fix this?,product_setup
+Can I exchange an item in my order?,order_id_status
+What are the steps involved in setting up a new Apple TV?,product_setup
+Is my order eligible for expedited shipping?,order_id_status
+How do I use iCloud Drive?,product_setup
+Can I request a redelivery?,order_id_status
+"The iPad Pro is a great tablet for productivity, but it's heavy and bulky.",feedback
+What is the expected shipping time for pre-orders?,order_id_status
+How do I use Apple Pay Cash?,product_setup
+When will my order be shipped?,order_id_status
+Order Id 909456289 is delayed,order_id_status
+How do I use Apple Card?,product_setup
+How do I use Apple Wallet?,product_setup
+How do I use Apple Arcade?,product_setup
+How do I cancel my order?,order_id_status
+What is the status of my order?,order_id_status
+How do I use Screen Time to limit screen time?,product_setup
+How do I set up the Maps app on my iPhone?,product_setup
+The MacBook Air M2 is incredibly fast and lightweight.,feedback
+Where is my order?,order_id_status
+what could be improved in the overall process or any product ?,feedback
+My iPhone's back glass is cracked. What should I do?,product_setup
+"The iPhone 11 is a good value for the price, but the camera could be better in low-light conditions.",feedback
+The iPad Pro is too expensive for the average consumer.,feedback
+How do I set up Messages on my iPhone?,product_setup
+Can I get a replacement for a damaged or defective product?,order_id_status
+"Yes, My feedback about the product is that it is exceptional",feedback
+I need help setting up my Iphone 4 camera,product_setup
+The iPhone 14 Pro Max's Dynamic Island is a game-changer.,feedback
+"The iPhone 13 is a great value for the price, but the camera could be better in low-light conditions.",feedback
+How do I use Find My iPhone?,product_setup
+How do I set up my new iPhone?,product_setup
+"Apple products are worth the price, but they can be expensive.",feedback
+How do I set up Notes on my iPhone?,product_setup
+Online Ordering and Delivery Experience:,feedback
+Can you track my order number 32109?,order_id_status
+What is the estimated delivery time for my order?,order_id_status
+Can I get a refund for a failed delivery attempt?,order_id_status
+The Mac Studio is overpriced for its performance.,feedback
+My iPhone's screen is unresponsive. How do I fix it?,product_setup
+could you please let me know the status of Order ID 120056789 ?,order_id_status
+I have a problem with my order.,order_id_status
+How do I protect my iPhone from water damage?,product_setup
+How do I enable Touch ID on my iPad?,product_setup
+My iPhone's screen is unresponsive.,product_setup
+The option to pick up orders from the Apple Store is convenient.,feedback
+The iPhone 12's design is sleek and durable.,feedback
+Order Number 123456789,order_id_status
+How do I use Apple Books?,product_setup
+How do I use Apple Card?,product_setup
+How do I use the Notes app on my iPhone?,product_setup
+How do I use Apple Fitness+?,product_setup
+How do I use Apple TV+?,product_setup
+The new iPad mini is super portable and powerful.,feedback
+What are the delivery charges for my order?,order_id_status
+What is the estimated delivery time for my order?,order_id_status
+My iPhone is not syncing with my Mac. What should I do?,product_setup
+The feedback is camera does not work some times,feedback
+My iPhone's voice recognition is not working properly. What should I do?,product_setup
+How do I use Apple Fitness+?,product_setup
+What is the order status of my recent purchase?,order_id_status
+"The Apple Pencil is a great stylus, but it's expensive.",feedback
+How do I use Apple Music Fitness+?,product_setup
+How do I use Apple Maps?,product_setup
+How do I use Apple Books?,product_setup
+"The iPhone 13's camera is amazing, especially in low light.",feedback
+Can I return my order?,order_id_status
+The customer service representatives are knowledgeable and helpful.,feedback
+"The iPhone 15 Pro Max is a stunning device, but the battery life could be better.",feedback
+Can I get a refund for a canceled order?,order_id_status
+What is your return policy?,order_id_status
+What is the insurance coverage for my order?,order_id_status
+What is the process of setting up iCloud backup?,feedback
+How do I use Apple Arcade?,product_setup
+Can I change the delivery address after placing the order?,order_id_status
+"Apple products are easy to use, but they can be complex to set up.",feedback
+How do I use Apple Music?,product_setup
+How do I set up FaceTime on my iPhone?,product_setup
+"The Apple Watch SE is a good budget-friendly smartwatch, but it lacks some features of the higher-end models.",feedback
+"Love the new iPhone 15 Pro Max, the camera is amazing!",feedback
+The Apple Watch Series 8's blood oxygen monitoring feature is impressive.,feedback
+How do I use Apple Books?,product_setup
+My iPhone's speakers are distorted. What should I do?,product_setup
+The Apple Watch Series 8 has inaccurate heart rate tracking.,feedback
+How do I use Apple Card?,product_setup
+Can I combine multiple orders into one shipment?,order_id_status
+Can I get a gift receipt for my order?,order_id_status
+Is there any update on my delayed order?,order_id_status
+Love the new Dynamic Island on the iPhone 14 Pro Max!,feedback
+How do I use Apple Pay Cash?,product_setup
+The iPad mini's battery life could be better.,feedback
+Can I insure my order for additional coverage?,order_id_status
+How do I use Apple Wallet?,product_setup
+How do I use Apple Arcade?,product_setup
+How do I use the Photos app?,product_setup
+How do I use Apple News+?,product_setup
+"The HomePod is a great speaker, but it's expensive.",feedback
+How do I use Apple Card?,product_setup
+"The iMac is a great desktop computer, but it's expensive.",feedback
+What happens if I am not home during delivery?,order_id_status
+The iPhone XS Max's large display is perfect for watching videos.,feedback
+"The HomePod mini is a great little speaker, but it lacks bass.",feedback
+How do I set up Touch ID?,product_setup
+How do I use Apple Music Fitness+?,product_setup
+My iPhone's GPS is not working properly. What should I do?,product_setup
+Can I return an item after delivery?,order_id_status
+AirPods Pro (2nd gen) are a game-changer for noise cancellation.,feedback
+order Number 123456789,order_id_status
+My iPhone's camera is blurry. What should I do?,product_setup
+How do I clean my iPhone screen?,product_setup
+How do I back up my iPhone?,product_setup

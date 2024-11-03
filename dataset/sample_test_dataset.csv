@@ -1,0 +1,296 @@
+text,label
+"Yes, i would you like to give feedback.",feedback
+"No, i would not like to give feedback.",feedback
+Could you give us rating from 1 to 5 ?,feedback
+I rate this product to 1,feedback
+Order ID: 123456789,order_id_status
+The AirPods Max offer exceptional sound quality.,feedback
+The Apple TV 4K is a great streaming device.,feedback
+what is the satus of my Order # 123456881,order_id_status
+where is my Order ID 123212719,order_id_status
+Order ID 765436789 is delivered,order_id_status
+Order # 332211789 delayed too much,order_id_status
+Order ID 987654789 in transit,order_id_status
+The iPhone 13's night mode is amazing.,feedback
+The MacBook Pro's Touch Bar is a convenient feature.,feedback
+The Apple Watch SE is a budget-friendly option.,feedback
+The iPad mini is perfect for reading and browsing the web.,feedback
+The iPhone 14 Pro Max is too expensive.,feedback
+The MacBook Pro's battery life could be better.,feedback
+The Apple Watch Series 8 is not very accurate in tracking workouts.,feedback
+The iPad Air (5th generation) is not as powerful as the iPad Pro.,feedback
+Could you explain how to set up iCloud Keychain?,product_setup
+Can you guide me on setting up Find My on my iPhone?,product_setup
+How do I pair my AirPods Pro with my iPhone 15?,product_setup
+What are the steps to set up Apple Pay on my Apple Watch Series 9?,product_setup
+The AirPods Max are too bulky and uncomfortable.,feedback
+The Apple TV 4K remote is difficult to use.,feedback
+The Apple Watch SE lacks advanced features.,feedback
+The iPad mini's screen is too small for serious work.,feedback
+How do I set up Face ID on my iPhone?,product_setup
+How do I set up Touch ID on my iPad?,product_setup
+How do I set up Siri on my iPhone?,product_setup
+Please help me set up two-factor authentication on my Apple ID.,product_setup
+i need help with iphone 12 camera set up,product_setup
+Can you guide me through the process of setting up Screen Time on my iPad?,product_setup
+I'm having trouble setting up FaceTime on my Mac.,product_setup
+My Apple Watch is not syncing with my iPhone.,product_setup
+I can't connect my iPad to my Wi-Fi network.,product_setup
+How do I set up Face ID on my iPhone 14 Pro?.,product_setup
+My iPhone 13 is not connecting to Wi-Fi.,product_setup
+What payment methods do you accept?,order_id_status
+Can I pay with a credit card?,order_id_status
+Can I pay with PayPal?,order_id_status
+Can I pay with Apple Pay?,order_id_status
+Can I pay with a debit card?,order_id_status
+Can I pay with cash on delivery?,order_id_status
+When will my credit card be charged?,order_id_status
+I have not received a confirmation email for my order.,order_id_status
+Can I change the payment method for my order?,order_id_status
+Can I modify the billing address for my order?,order_id_status
+What is the current status of my order with order number [Order Number]?,order_id_status
+When can I expect my order to be delivered?,order_id_status
+Can you provide a tracking number for my order?,order_id_status
+Where is my order currently located?,order_id_status
+Has my order shipped yet?,order_id_status
+Is there a delay in the shipping of my order?,order_id_status
+Can I cancel my order?,order_id_status
+Can I modify my order?,order_id_status
+Can I add items to my order?,order_id_status
+Can I remove items from my order?,order_id_status
+Can I change the quantity of items in my order?,order_id_status
+What is the status of my backordered item?,order_id_status
+When will my backordered item be available?,order_id_status
+Can I cancel a backordered item?,order_id_status
+Can I substitute a backordered item with a similar product?,order_id_status
+What are the shipping costs for my order?,order_id_status
+Is there free shipping on my order?,order_id_status
+What are the available shipping carriers for my order?,order_id_status
+Can I choose a specific shipping carrier?,order_id_status
+Can I specify a delivery date or time window?,order_id_status
+Can I pick up my order from a store?,order_id_status
+Is there a store pickup option available?,order_id_status
+What are the store pickup hours?,order_id_status
+Can I pay for my order upon delivery?,order_id_status
+What happens if I am not home during delivery?,order_id_status
+Can I request a specific delivery person?,order_id_status
+What is the estimated delivery time for my pin code?,order_id_status
+Can I track my order by SMS?,order_id_status
+Can I expedite my order?,order_id_status
+What is the shipping carrier for my order?,order_id_status
+Can I track my order using a different tracking number?,order_id_status
+Can I split a large order into multiple shipments?,order_id_status
+Can I combine multiple orders into one shipment?,order_id_status
+What is the estimated delivery time for international orders?,order_id_status
+How do I track my international order?,order_id_status
+What are the customs duties and taxes for international orders?,order_id_status
+What is the status of my order?,order_id_status
+When will my order be shipped?,order_id_status
+When will my order arrive?,order_id_status
+Where is my order?,order_id_status
+What is the tracking number for my order?,order_id_status
+Is my order on backorder?,order_id_status
+Has my order shipped yet?,order_id_status
+When can I expect my order to be delivered?,order_id_status
+What is the estimated delivery time for my order?,order_id_status
+Is there a delay in my order?,order_id_status
+How do I cancel my order?,order_id_status
+Can I return my order?,order_id_status
+What is the return policy?,order_id_status
+How do I initiate a return?,order_id_status
+What is the return shipping address?,order_id_status
+What payment methods do you accept?,order_id_status
+How do I pay for my order?,order_id_status
+Can I change the payment method for my order?,order_id_status
+When will my credit card be charged?,order_id_status
+I have not received a confirmation email for my order.,order_id_status
+Can I change the shipping address for my order?,order_id_status
+Can I add items to my order?,order_id_status
+Can I remove items from my order?,order_id_status
+Can I change the quantity of items in my order?,order_id_status
+I have a question about my order.,order_id_status
+I need help with my order.,order_id_status
+I have a problem with my order.,order_id_status
+I need to contact customer support.,order_id_status
+How can I reach customer support?,order_id_status
+What is the status of order number 12345?,order_id_status
+Is my order number 67890 shipped yet?,order_id_status
+When can I expect delivery for order number 98765?,order_id_status
+Is there a delay in order number 45678?,order_id_status
+Can you track my order number 32109?,order_id_status
+I haven't received a shipping confirmation email.,order_id_status
+"My order is showing as delivered, but I haven't received it.",order_id_status
+I ordered the wrong item. How do I return it?,order_id_status
+Can I exchange an item in my order?,order_id_status
+What is the order status of my recent purchase?,order_id_status
+I need to update my shipping address.,order_id_status
+Can I split my order into multiple shipments?,order_id_status
+Can I combine multiple orders into one shipment?,order_id_status
+What is the estimated delivery time for international orders?,order_id_status
+How do I track my international order?,order_id_status
+Can I get a refund for a canceled order?,order_id_status
+How do I check the order history on your website?,order_id_status
+Can I modify the billing address for my order?,order_id_status
+What is the estimated processing time for my order?,order_id_status
+Can I get a discount on my next order?,order_id_status
+What is the return policy for digital products?,order_id_status
+Can I expedite my order?,order_id_status
+What is the shipping carrier for my order?,order_id_status
+Can I track my order using a different tracking number?,order_id_status
+I received a damaged item. What should I do?,order_id_status
+I received the wrong item. How do I return it?,order_id_status
+I received a defective item. Can I get a replacement?,order_id_status
+Can I change the color or size of my order?,order_id_status
+Can I gift wrap my order?,order_id_status
+What are the payment options available?,order_id_status
+Can I pay for my order with a credit card?,order_id_status
+Can I pay for my order with PayPal?,order_id_status
+Can I pay for my order with a debit card?,order_id_status
+Can I pay for my order with cash on delivery?,order_id_status
+How can I check my order history?,order_id_status
+How can I cancel a recurring order?,order_id_status
+Can I get a refund for a returned item?,order_id_status
+How long does it take to process a return?,order_id_status
+Can I return an item without a receipt?,order_id_status
+What is your return policy for clearance items?,order_id_status
+Can I exchange an item for a different size or color?,order_id_status
+How do I contact customer support for order-related issues?,order_id_status
+What is the status of my backordered item?,order_id_status
+Can I request a partial refund for a damaged item?,order_id_status
+What is the estimated processing time for a custom order?,order_id_status
+Can I get a discount on a bulk order?,order_id_status
+How do I track my international order?,order_id_status
+What are the customs duties and taxes for international orders?,order_id_status
+Can I get a gift receipt for my order?,order_id_status
+How do I return a gift item?,order_id_status
+What is the warranty period for my order?,order_id_status
+When will my order be dispatched?,order_id_status
+Can I track my order by SMS?,order_id_status
+What is the estimated delivery time for my pin code?,order_id_status
+Can I pick up my order from a store?,order_id_status
+Is there any delay in shipments due to holidays?,order_id_status
+Can I reschedule my delivery?,order_id_status
+What is the cut-off time for same-day delivery?,order_id_status
+Can I get an invoice for my order?,order_id_status
+The Apple Store's Genius Bar is a great resource for troubleshooting and repairs.,feedback
+Apple's online support is helpful and informative.,feedback
+Apple's community forums are a great place to get help and advice.,feedback
+Apple's software updates are frequent and reliable.,feedback
+Apple's security features are strong and effective.,feedback
+Apple's privacy policies are transparent and user-friendly.,feedback
+Apple's customer support is responsive and helpful.,feedback
+Apple's warranty coverage is comprehensive.,feedback
+Apple's repair services are efficient and affordable.,feedback
+Apple's trade-in program is a great way to upgrade to a new device.,feedback
+Apple's recycling program is environmentally friendly.,feedback
+Apple's packaging is minimal and eco-friendly.,feedback
+Apple's commitment to sustainability is commendable.,feedback
+Apple's products are designed to last.,feedback
+Apple's products are easy to use and intuitive.,feedback
+Apple's products are innovative and cutting-edge.,feedback
+Apple's products are reliable and durable.,feedback
+Apple's products are a good value for the price.,feedback
+Apple's products are a status symbol.,feedback
+Apple's products are a great gift for loved ones.,feedback
+Apple's products are a great investment.,feedback
+Apple's products are compatible with other Apple devices.,feedback
+Apple's products are easy to set up and use.,feedback
+Apple's products are well-designed and aesthetically pleasing.,feedback
+Apple's products are eco-friendly.,feedback
+Apple's products are reliable and trustworthy.,feedback
+My iPhone screen is cracked.,product_setup
+My iPhone screen is scratched.,product_setup
+My iPhone's back glass is broken.,product_setup
+My iPhone's charging port is damaged.,product_setup
+My iPhone's headphone jack isn't working.,product_setup
+My iPhone's speakers sound distorted.,product_setup
+My iPhone's microphone picks up background noise.,product_setup
+My iPhone's camera photos are blurry.,product_setup
+My iPhone's camera app keeps crashing.,product_setup
+My iPhone photos aren't syncing to iCloud.,product_setup
+My iPhone videos won't play properly.,product_setup
+My iPhone apps keep crashing.,product_setup
+My iPhone battery isn't charging properly.,product_setup
+My iPhone battery drains too quickly.,product_setup
+My iPhone screen flickers.,product_setup
+My iPhone screen is dim.,product_setup
+My iPhone screen is unresponsive to touch.,product_setup
+My iPhone keyboard isn't working properly.,product_setup
+My iPhone's voice recognition isn't accurate.,product_setup
+My iPhone notifications aren't working properly.,product_setup
+My iPhone alarms aren't going off.,product_setup
+My iPhone's clock is incorrect.,product_setup
+My iPhone's date and time settings are wrong.,product_setup
+My iPhone software won't update.,product_setup
+My iPhone apps won't update.,product_setup
+My iPhone won't sync with my Mac.,product_setup
+My iPhone won't sync with my iPad.,product_setup
+My iPhone won't sync with my Apple Watch.,product_setup
+My iPhone won't sync with my iCloud account.,product_setup
+I'm having issues with Apple Pay.,product_setup
+I'm having issues with Apple Music.,product_setup
+I'm having issues with Apple TV+.,product_setup
+I'm having issues with Apple Arcade.,product_setup
+I'm having issues with Apple News+.,product_setup
+I'm having issues with Apple Books.,product_setup
+I'm having issues with Apple Podcasts.,product_setup
+I'm having issues with Apple Maps.,product_setup
+I'm having issues with Apple Wallet.,product_setup
+I'm having issues with Siri.,product_setup
+I'm having issues with Face ID.,product_setup
+I'm having issues with Touch ID.,product_setup
+I'm having issues with the Camera app.,product_setup
+I'm having issues with the Photos app.,product_setup
+I'm having issues with the Notes app.,product_setup
+I'm having issues with the Reminders app.,product_setup
+I'm having issues with the Calendar app.,product_setup
+I'm having issues with the Clock app.,product_setup
+I'm having issues with the Weather app.,product_setup
+I'm having issues with the Mail app.,product_setup
+I'm having issues with the Messages app.,product_setup
+I'm having issues with the Safari app.,product_setup
+I'm having issues with the Settings app.,product_setup
+I'm having issues with the App Store.,product_setup
+I'm having issues with iTunes.,product_setup
+I'm having issues with iCloud.,product_setup
+I'm having issues with FaceTime.,product_setup
+I'm having issues with Messages.,product_setup
+I'm having issues with Screen Time.,product_setup
+I'm having issues with Do Not Disturb.,product_setup
+I'm having issues with Night Shift.,product_setup
+I'm having issues with True Tone.,product_setup
+I'm having issues with Dark Mode.,product_setup
+I'm having issues with AirPods.,product_setup
+I'm having issues with Apple Watch.,product_setup
+I'm having issues with HomeKit.,product_setup
+I'm having issues with Apple TV.,product_setup
+I'm having issues with Apple Pencil.,product_setup
+I'm having issues with Magic Keyboard.,product_setup
+I'm having issues with Magic Mouse.,product_setup
+I'm having issues with Magic Trackpad.,product_setup
+I'm having issues with AppleCare+.,product_setup
+I'm having issues with Apple Support.,product_setup
+I'm having issues with Apple Store appointments.,product_setup
+I'm having issues with Apple's website.,product_setup
+I'm having issues with Apple's online store.,product_setup
+I'm having issues with Apple's trade-in program.,product_setup
+I'm having issues with Apple's recycling program.,product_setup
+My iPhone's battery drains quickly even with optimized battery settings.,product_setup
+My iPhone's camera app crashes frequently.,product_setup
+My iPhone's photos are blurry or have poor quality in low light.,product_setup
+My iPhone's video recording is unstable or blurry.,product_setup
+My iPhone's audio quality is poor during calls.,product_setup
+My iPhone's speaker volume is low.,product_setup
+My iPhone's screen is unresponsive to touch in certain areas.,product_setup
+My iPhone's screen is flickering or has dead pixels.,product_setup
+My iPhone's Wi-Fi connection keeps dropping.,product_setup
+My iPhone's Bluetooth connection is unstable.,product_setup
+My iPhone's cellular data is slow or not working properly.,product_setup
+My iPhone's GPS is inaccurate or slow to locate.,product_setup
+My iPhone's apps are crashing frequently.,product_setup
+My iPhone's battery health is deteriorating rapidly.,product_setup
+My iPhone's software updates are not installing correctly.,product_setup
+My iPhone is not recognizing my Apple Watch.,product_setup
+My iPhone is not syncing with my Mac.,product_setup
+My iPhone is not backing up to iCloud.,product_setup
+My iPhone is not restoring from a backup.,product_setup
