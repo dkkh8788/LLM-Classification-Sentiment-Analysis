@@ -20,7 +20,7 @@ label2id = {label: i for i, label in enumerate(labels)}
 id2label = {i: label for i, label in enumerate(labels)}
 
 
-# Map labels to IDs
+# Map dataset labels to IDs
 def encode_labels(example):
     example['label'] = label2id[example['label']]
     return example
@@ -28,31 +28,32 @@ def encode_labels(example):
 dataset = dataset.map(encode_labels)
 test_dataset = test_dataset.map(encode_labels)
 
-# Tokenize the dataset
+# Tokenize the dataset using tokenizer pre-trained on a model called "bert-base-uncased"
 tokenizer = AutoTokenizer.from_pretrained('bert-base-uncased')
 
+# Tokenizer convert text data into numerical representations.
 def preprocess_function(examples):
     return tokenizer(examples['text'], truncation=True, padding=True)
 
 tokenized_dataset = dataset.map(preprocess_function, batched=True)
 tokenized_test_dataset = test_dataset.map(preprocess_function, batched=True)
 
-# Load pre-trained model
+# Load pre-trained BERT model from the HF
 model = AutoModelForSequenceClassification.from_pretrained(
     'bert-base-uncased',
-    num_labels=len(labels),
-    id2label=id2label,
-    label2id=label2id
+    num_labels=len(labels), # number of output classes
+    id2label=id2label, # maps label id to label name
+    label2id=label2id  # maps label name to label id
 )
 """
 # Define training arguments
 #training_args = TrainingArguments(
     output_dir='./finetuned-v2',
-    evaluation_strategy="epoch",
-    learning_rate=2e-5,
-    per_device_train_batch_size=16,
-    per_device_eval_batch_size=12,
-    num_train_epochs=3,
+    evaluation_strategy="epoch", # evaluation after each epoch
+    learning_rate=2e-5, # learning rate
+    per_device_train_batch_size=16, # training size at once
+    per_device_eval_batch_size=12, # test size at once
+    num_train_epochs=3, # number of epocs
     weight_decay=0.01,
 )
 """
